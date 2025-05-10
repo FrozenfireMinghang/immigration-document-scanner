@@ -1,0 +1,28 @@
+{
+    "ead_card": {
+        "number": [706, 280, 977, 306],
+        "category": [596, 278, 663, 306],
+        "card_expires_date": [613, 550, 755, 576],
+        "last_name": [377, 147, 563, 175],
+        "first_name": [379, 214, 548, 237],
+        "field_name":[460, 53, 906, 98]
+    },
+    "passport": {
+        "last_name": [330, 127, 498, 152],
+        "first_name": [306, 172, 491, 194],
+        "date_of_birth": [392, 261, 603, 285],
+        "country": [426, 25, 606, 56],
+        "issue_date": [392, 352, 593, 373],
+        "expiration_date": [392, 395, 592, 417],
+        "field_name":[97, 23, 210, 44]
+    },
+    "driver_license": {
+        "number": [858, 316, 1407, 373],
+        "date_of_birth": [870, 571, 1269, 635],
+        "issue_date": [1553, 568, 1946, 631],
+        "expiration_date": [1482, 992, 1883, 1051],
+        "first_name": [724, 384, 1041, 430],
+        "last_name": [729, 452, 1132, 496],
+        "field_name":[1202, 114, 1860, 169]
+    }
+}
