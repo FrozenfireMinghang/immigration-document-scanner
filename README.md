@@ -10,7 +10,7 @@ Dates and strings are cleaned using fuzzy matching.
 ## High Level graph
 ![high level graph](highLevelGraph.jpg)
 
-## Project demo video 
+## Project demo video (just click on the picture)
 [![Watch the video](example.jpg)](https://drive.google.com/file/d/1tebQm4_q9hubX7PfJ9jn5EMgEaiM1fQm/view?usp=sharing)
 
 ## Note about details
